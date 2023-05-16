@@ -1,4 +1,4 @@
-avatar: /images/head/head.jpg # 网站 Logo
+avatar: /images/head/head.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
   path: /images/background/xiaomai.jpg
   character: /images/background/lihui.png
