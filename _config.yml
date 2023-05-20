@@ -163,8 +163,8 @@ daovoice:
 busuanzi: true
 # 扩展挂件
 pendants:
-  - clock #时钟
-  - qweather #天气(需要配置具体参数)
+  - #clock #时钟
+  - #qweather #天气(需要配置具体参数)
 
 # qweather配置项(请到 https://www.qweather.com/ 申请key)
 qweather:
